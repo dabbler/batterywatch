@@ -112,6 +112,7 @@ void BatteryWatch::about()
     msgbox.setText(
             QString("Version:  ") + glbRevision + "\n" +
             QString("Last Updated on:  ") + glbDateLastModified +
+			QString("\n\n") +
 			QString("The software included in this product contains copyrighted software that is licensed under the GPLv3.\n\nYou may obtain the complete Corresponding Source code from our distribution site at https://github.com/dabbler/batterywatch.git")
      );
     msgbox.setInformativeText( "\n(C) Copyright 2021 Peregrine LLC\n" );

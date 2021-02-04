@@ -6,7 +6,7 @@
 
 #define MyAppName		"Battery Watch"
 #define MyAppExeName	"BatteryWatch"
-#define MyVersion		"27"
+#define MyVersion		"30"
 
 [Setup]
 AppID={{05AB9398-9399-4AF6-A8E8-1797987A97BE}}
